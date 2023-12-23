@@ -1,4 +1,4 @@
-valorReal = float(input('Insira um valor em real: '))
+valorReal = float(input('Insira um valor em real: R$'))
 
 valorDolar = 3.27
 
